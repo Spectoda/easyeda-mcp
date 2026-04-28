@@ -61,7 +61,7 @@ npm run smoke:protocol
 ```
 
 It currently validates the mocked bridge path and the initial `session.status`
-tool registry.
+tool registry, plus the bridge protocol constants and message guards.
 
 ### Level 1: Bridge Extension Import
 

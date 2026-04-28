@@ -14,6 +14,8 @@ impact of each change clear.
   checklist.
 - Added the initial TypeScript package layout, MCP server skeleton, mocked
   bridge transport, and `npm run smoke:protocol` Level 0 smoke test.
+- Added the bridge protocol TypeScript contract, runtime guards, and public
+  protocol documentation.
 
 ### Impact
 
@@ -23,3 +25,5 @@ impact of each change clear.
   validation.
 - Future code changes can run a deterministic protocol smoke test before live
   EasyEDA Browser Use testing exists.
+- The future EasyEDA extension and WebSocket bridge now have a shared protocol
+  contract to implement against.

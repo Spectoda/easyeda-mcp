@@ -6,7 +6,7 @@
 - [x] Establish public documentation, safety boundaries, and contribution rules.
 - [x] Define the first TypeScript package layout.
 - [x] Implement MCP server skeleton with mocked bridge transport.
-- [ ] Define the EasyEDA bridge message protocol.
+- [x] Define the EasyEDA bridge message protocol.
 - [x] Add smoke-test documentation for Codex Browser Use.
 - [x] Add package scripts that map to the documented smoke levels.
 
@@ -49,6 +49,7 @@
 - [x] Defined the Codex Browser Use smoke testing workflow and PR checklist.
 - [x] Added a minimal TypeScript MCP server skeleton with mocked
       `session.status` protocol smoke testing.
+- [x] Added the bridge protocol TypeScript contract and documentation.
 
 ## Findings
 

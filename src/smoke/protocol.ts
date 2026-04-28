@@ -1,6 +1,15 @@
 import assert from "node:assert/strict";
 import { MockEasyEdaBridge } from "../bridge/mock.js";
 import {
+  BRIDGE_PORT_END,
+  BRIDGE_PORT_START,
+  BRIDGE_REQUEST_TIMEOUT_MS,
+  BRIDGE_SERVICE_ID,
+  createHandshakeMessage,
+  isBridgeMessage,
+  isHandshakeMessage,
+} from "../bridge/protocol.js";
+import {
   callSessionStatusTool,
   getToolNames,
 } from "../server/tool-registry.js";
@@ -10,6 +19,38 @@ const EXPECTED_TOOLS = ["session.status"] as const;
 async function main(): Promise<void> {
   const toolNames = getToolNames();
   assert.deepEqual(toolNames, [...EXPECTED_TOOLS]);
+  assert.equal(BRIDGE_SERVICE_ID, "easyeda-mcp-bridge");
+  assert.equal(BRIDGE_PORT_START, 49620);
+  assert.equal(BRIDGE_PORT_END, 49629);
+  assert.equal(BRIDGE_REQUEST_TIMEOUT_MS, 30_000);
+
+  const handshake = createHandshakeMessage("easyeda-extension", 1_777_392_000_000);
+  assert.equal(isHandshakeMessage(handshake), true);
+  assert.equal(isBridgeMessage(handshake), true);
+  assert.equal(
+    isBridgeMessage({
+      ...handshake,
+      service: "unexpected-service",
+    }),
+    false,
+  );
+  assert.equal(
+    isBridgeMessage({
+      type: "ping",
+      id: "heartbeat-1",
+      timestamp: 1_777_392_000_000,
+    }),
+    true,
+  );
+  assert.equal(
+    isBridgeMessage({
+      type: "execute",
+      id: "request-1",
+      code: "return await eda.dmt_Project.getCurrentProjectInfo();",
+      timestamp: 1_777_392_000_000,
+    }),
+    true,
+  );
 
   const bridge = new MockEasyEdaBridge();
   const statusText = await callSessionStatusTool(bridge);
@@ -35,6 +76,7 @@ async function main(): Promise<void> {
         success: true,
         level: 0,
         tools: toolNames,
+        bridgeServiceId: BRIDGE_SERVICE_ID,
         bridgeMode: status.bridge.mode,
         easyedaConnected: status.easyeda.connected,
       },

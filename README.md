@@ -136,6 +136,8 @@ tool registry.
 - [SECURITY.md](SECURITY.md) - vulnerability and secret-handling policy.
 - [NOTICE.md](NOTICE.md) - upstream inspiration and credits.
 - [docs/](docs/) - focused design notes and workflow documentation.
+- [docs/bridge-protocol.md](docs/bridge-protocol.md) - local bridge message
+  contract.
 
 ## License
 
