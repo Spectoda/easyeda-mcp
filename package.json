@@ -1,0 +1,50 @@
+{
+  "name": "@spectoda/easyeda-mcp",
+  "version": "0.1.0",
+  "private": false,
+  "description": "MCP server and EasyEDA Pro bridge for AI-assisted PCB review, component sourcing, manufacturing export, and JLCPCB handoff workflows.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "bin": {
+    "easyeda-mcp": "./dist/server/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "NOTICE.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "start": "node dist/server/index.js",
+    "smoke:protocol": "npm run build && node dist/smoke/protocol.js"
+  },
+  "keywords": [
+    "easyeda",
+    "mcp",
+    "model-context-protocol",
+    "pcb",
+    "eda",
+    "jlcpcb",
+    "lcsc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spectoda/easyeda-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Spectoda/easyeda-mcp/issues"
+  },
+  "homepage": "https://github.com/Spectoda/easyeda-mcp#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=20.17.0"
+  }
+}
