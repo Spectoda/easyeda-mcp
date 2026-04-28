@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Builds
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Browser and local automation state
+.browser-data/
+playwright-report/
+test-results/
+
+# EasyEDA / JLCPCB private exports
+*.epro
+*.elibz
+*.epanm
+*.gerber.zip
+*Gerber*.zip
+*BOM*.csv
+*BOM*.xlsx
+*CPL*.csv
+*PickAndPlace*.csv
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
