@@ -3,6 +3,8 @@
 This project is built with respect for the public EasyEDA, JLCPCB, LCSC, and
 MCP ecosystems.
 
+Copyright 2026 Spectoda.
+
 ## Upstream Inspiration
 
 The architecture and roadmap are informed by:
