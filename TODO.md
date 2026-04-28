@@ -7,7 +7,8 @@
 - [ ] Define the first TypeScript package layout.
 - [ ] Implement MCP server skeleton with mocked bridge transport.
 - [ ] Define the EasyEDA bridge message protocol.
-- [ ] Add smoke-test documentation for Codex Browser Use.
+- [x] Add smoke-test documentation for Codex Browser Use.
+- [ ] Add package scripts that map to the documented smoke levels.
 
 ## MVP: Read-Only Review Loop
 
@@ -44,6 +45,8 @@
       repository.
 
 ## Done
+
+- [x] Defined the Codex Browser Use smoke testing workflow and PR checklist.
 
 ## Findings
 

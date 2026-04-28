@@ -55,6 +55,10 @@ When a change touches the EasyEDA extension, editor bridge, or browser workflow,
 document the smoke test result. Use Codex Browser Use or an equivalent
 browser-automation tool to verify the real browser/editor path when feasible.
 
+Use `docs/browser-use-smoke-testing.md` as the source of truth for smoke levels
+and `docs/pull-request-smoke-checklist.md` for the PR report. Do not omit the
+browser smoke block from PRs; mark it `blocked` or `not applicable` when needed.
+
 The minimum report should state:
 
 - EasyEDA Pro target used: desktop client or web editor;

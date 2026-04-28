@@ -99,6 +99,9 @@ Smoke testing will use two lanes:
 See [docs/browser-use-smoke-testing.md](docs/browser-use-smoke-testing.md) for
 the intended workflow.
 
+Pull requests should include the smoke report block from
+[docs/pull-request-smoke-checklist.md](docs/pull-request-smoke-checklist.md).
+
 ## Repository Map
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) - system model and boundaries.
