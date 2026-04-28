@@ -12,6 +12,8 @@ impact of each change clear.
   policy, security policy, credits, and smoke-testing documentation.
 - Defined the Codex Browser Use smoke testing workflow and pull request smoke
   checklist.
+- Added the initial TypeScript package layout, MCP server skeleton, mocked
+  bridge transport, and `npm run smoke:protocol` Level 0 smoke test.
 
 ### Impact
 
@@ -19,3 +21,5 @@ impact of each change clear.
 - Spectoda-private EasyEDA account data is explicitly scoped out of this repo.
 - Browser-facing changes now have a standard report format for end-to-end
   validation.
+- Future code changes can run a deterministic protocol smoke test before live
+  EasyEDA Browser Use testing exists.

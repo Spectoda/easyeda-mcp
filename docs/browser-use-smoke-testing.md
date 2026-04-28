@@ -54,8 +54,14 @@ Expected checks:
 - mocked bridge status returns a structured response;
 - no secrets are required.
 
-This level must eventually run in CI. Until the package skeleton exists, record
-it as `blocked: no MCP server implementation yet`.
+This level is available through:
+
+```text
+npm run smoke:protocol
+```
+
+It currently validates the mocked bridge path and the initial `session.status`
+tool registry.
 
 ### Level 1: Bridge Extension Import
 
@@ -227,10 +233,10 @@ Browser smoke test:
 
 ## Future Automation Contract
 
-When implementation starts, add commands that map to these levels:
+Implemented and planned commands:
 
 ```text
-npm run smoke:protocol      # Level 0
+npm run smoke:protocol      # Level 0, implemented
 npm run smoke:extension     # Level 1 helper packaging checks
 npm run smoke:browser       # Level 2 or 3 Browser Use assisted run
 ```

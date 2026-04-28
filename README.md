@@ -42,9 +42,24 @@ to build that workflow safely.
 
 ## Current Status
 
-Foundation only. The repository currently defines the project scope,
-architecture, operating rules, and contribution model. The implementation will
-be added in small, reviewable increments.
+Early implementation. The repository currently defines the project scope,
+architecture, operating rules, contribution model, and a minimal MCP server
+skeleton with a mocked Level 0 protocol smoke test.
+
+## Quick Start
+
+```bash
+npm install
+npm run build
+npm run smoke:protocol
+```
+
+Run the MCP server over stdio:
+
+```bash
+npm run build
+npm start
+```
 
 ## Planned Architecture
 
@@ -101,6 +116,15 @@ the intended workflow.
 
 Pull requests should include the smoke report block from
 [docs/pull-request-smoke-checklist.md](docs/pull-request-smoke-checklist.md).
+
+The first implemented smoke command is:
+
+```bash
+npm run smoke:protocol
+```
+
+It validates the Level 0 mocked bridge path and the initial `session.status`
+tool registry.
 
 ## Repository Map
 

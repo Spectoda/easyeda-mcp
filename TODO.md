@@ -4,11 +4,11 @@
 
 - [x] Create the public repository and add it to the Spectoda GEN2 workspace.
 - [x] Establish public documentation, safety boundaries, and contribution rules.
-- [ ] Define the first TypeScript package layout.
-- [ ] Implement MCP server skeleton with mocked bridge transport.
+- [x] Define the first TypeScript package layout.
+- [x] Implement MCP server skeleton with mocked bridge transport.
 - [ ] Define the EasyEDA bridge message protocol.
 - [x] Add smoke-test documentation for Codex Browser Use.
-- [ ] Add package scripts that map to the documented smoke levels.
+- [x] Add package scripts that map to the documented smoke levels.
 
 ## MVP: Read-Only Review Loop
 
@@ -47,6 +47,8 @@
 ## Done
 
 - [x] Defined the Codex Browser Use smoke testing workflow and PR checklist.
+- [x] Added a minimal TypeScript MCP server skeleton with mocked
+      `session.status` protocol smoke testing.
 
 ## Findings
 
