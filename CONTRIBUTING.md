@@ -48,6 +48,12 @@ When a change touches the EasyEDA extension, bridge transport, or JLCPCB handoff
 include the browser smoke-test result in the pull request.
 
 See [docs/browser-use-smoke-testing.md](docs/browser-use-smoke-testing.md).
+Use [docs/pull-request-smoke-checklist.md](docs/pull-request-smoke-checklist.md)
+to pick the minimum required smoke level and fill the PR report.
+
+If the Browser Use path is blocked by login, unavailable EasyEDA/JLCPCB access,
+or private fixtures, say so explicitly and keep the change covered by lower-level
+protocol tests where possible.
 
 ## License
 
