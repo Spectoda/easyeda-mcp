@@ -52,8 +52,10 @@ It does not own:
 ## Browser Testing
 
 When a change touches the EasyEDA extension, editor bridge, or browser workflow,
-document the smoke test result. Use Codex Browser Use or an equivalent
-browser-automation tool to verify the real browser/editor path when feasible.
+document the smoke test result. Use Codex Browser Use (`browser-use`) to
+verify the real browser/editor path when feasible. If Browser Use is not
+available, mark the browser smoke result as blocked instead of using another
+browser workflow.
 
 Use `docs/browser-use-smoke-testing.md` as the source of truth for smoke levels
 and `docs/pull-request-smoke-checklist.md` for the PR report. Do not omit the
