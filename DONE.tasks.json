@@ -1,0 +1,291 @@
+{
+  "schema_version": "companiesascode.done_tasks.v1",
+  "scope": {
+    "id": "spectoda-modules-easyeda-mcp",
+    "name": "Spectoda easyeda-mcp",
+    "path": "modules/easyeda-mcp",
+    "owner": "module-owner"
+  },
+  "tasks": [
+    {
+      "id": "task-2026-05-16-308",
+      "title": "Create the public repository and add it to the Spectoda GEN2 workspace.",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Create the public repository and add it to the Spectoda GEN2 workspace.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Create the public repository and add it to the Spectoda GEN2 workspace.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-309",
+      "title": "Establish public documentation, safety boundaries, and contribution rules.",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Establish public documentation, safety boundaries, and contribution rules.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Establish public documentation, safety boundaries, and contribution rules.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-310",
+      "title": "Define the first TypeScript package layout.",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Define the first TypeScript package layout.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Define the first TypeScript package layout.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-311",
+      "title": "Implement MCP server skeleton with mocked bridge transport.",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Implement MCP server skeleton with mocked bridge transport.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Implement MCP server skeleton with mocked bridge transport.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-313",
+      "title": "Add smoke-test documentation for Codex Browser Use.",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Add smoke-test documentation for Codex Browser Use.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Add smoke-test documentation for Codex Browser Use.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-314",
+      "title": "Add package scripts that map to the documented smoke levels",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Add package scripts that map to the documented smoke levels. ## MVP: Read-Only Review Loop",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Add package scripts that map to the documented smoke levels.\n\n## MVP: Read-Only Review Loop",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-334",
+      "title": "Defined the Codex Browser Use smoke testing workflow and PR checklist.",
+      "status": "done",
+      "priority": "low",
+      "priority_rank": 90,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Defined the Codex Browser Use smoke testing workflow and PR checklist.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Defined the Codex Browser Use smoke testing workflow and PR checklist.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    },
+    {
+      "id": "task-2026-05-16-335",
+      "title": "Added a minimal TypeScript MCP server skeleton with mocked session.status protocol smoke testing",
+      "status": "done",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Added a minimal TypeScript MCP server skeleton with mocked `session.status` protocol smoke testing. ## Findings - EasyEDA's public ecosystem already includes an official API skill, bridge extension, SDK, extension debugging MCP, and router tooling. - The public MCP should build on typed domain tools rather than exposing a broad raw JavaScript execution surface.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Added a minimal TypeScript MCP server skeleton with mocked\n      `session.status` protocol smoke testing.\n\n## Findings\n\n- EasyEDA's public ecosystem already includes an official API skill, bridge\n  extension, SDK, extension debugging MCP, and router tooling.\n- The public MCP should build on typed domain tools rather than exposing a\n  broad raw JavaScript execution surface.",
+      "completed_at": "2026-05-16",
+      "completed_by": "agent",
+      "outcome": "Migrated from a completed checkbox in the legacy TODO.md.",
+      "evidence": [
+        {
+          "label": "Migrated legacy TODO block",
+          "path": "modules/easyeda-mcp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": "companiesascode.open_issues.v1",
+  "scope": {
+    "id": "spectoda-modules-easyeda-mcp",
+    "name": "Spectoda easyeda-mcp",
+    "path": "modules/easyeda-mcp",
+    "owner": "module-owner"
+  },
+  "issues": []
+}

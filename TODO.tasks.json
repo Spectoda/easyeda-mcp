@@ -1,0 +1,532 @@
+{
+  "schema_version": "companiesascode.todo_tasks.v1",
+  "scope": {
+    "id": "spectoda-modules-easyeda-mcp",
+    "name": "Spectoda easyeda-mcp",
+    "path": "modules/easyeda-mcp",
+    "owner": "module-owner"
+  },
+  "tasks": [
+    {
+      "id": "task-2026-05-16-312",
+      "title": "Define the EasyEDA bridge message protocol.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Define the EasyEDA bridge message protocol.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Define the EasyEDA bridge message protocol."
+    },
+    {
+      "id": "task-2026-05-16-315",
+      "title": "Connect to an EasyEDA Pro editor session through a bridge extension.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Connect to an EasyEDA Pro editor session through a bridge extension.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Connect to an EasyEDA Pro editor session through a bridge extension."
+    },
+    {
+      "id": "task-2026-05-16-316",
+      "title": "List connected editor windows and select an active window.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp",
+        "windows"
+      ],
+      "summary": "List connected editor windows and select an active window.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "List connected editor windows and select an active window."
+    },
+    {
+      "id": "task-2026-05-16-317",
+      "title": "Read current project metadata and document tree.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Read current project metadata and document tree.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Read current project metadata and document tree."
+    },
+    {
+      "id": "task-2026-05-16-318",
+      "title": "Extract schematic components, pins, nets, and wires.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Extract schematic components, pins, nets, and wires.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Extract schematic components, pins, nets, and wires."
+    },
+    {
+      "id": "task-2026-05-16-319",
+      "title": "Extract PCB components, pads, nets, board outline, and DRC status.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Extract PCB components, pads, nets, board outline, and DRC status.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Extract PCB components, pads, nets, board outline, and DRC status."
+    },
+    {
+      "id": "task-2026-05-16-320",
+      "title": "Produce a structured schematic/PCB review report.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Produce a structured schematic/PCB review report.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Produce a structured schematic/PCB review report."
+    },
+    {
+      "id": "task-2026-05-16-321",
+      "title": "Highlight reviewed nets or primitives in the editor",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Highlight reviewed nets or primitives in the editor. ## MVP: Component Sourcing",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Highlight reviewed nets or primitives in the editor.\n\n## MVP: Component Sourcing"
+    },
+    {
+      "id": "task-2026-05-16-322",
+      "title": "Search LCSC/JLCPCB components by query and filters.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Search LCSC/JLCPCB components by query and filters.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Search LCSC/JLCPCB components by query and filters."
+    },
+    {
+      "id": "task-2026-05-16-323",
+      "title": "Prefer in-stock and Basic Library parts when requested.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Prefer in-stock and Basic Library parts when requested.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Prefer in-stock and Basic Library parts when requested."
+    },
+    {
+      "id": "task-2026-05-16-324",
+      "title": "Return datasheet, package, stock, lifecycle, and assembly-relevant data.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Return datasheet, package, stock, lifecycle, and assembly-relevant data.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Return datasheet, package, stock, lifecycle, and assembly-relevant data."
+    },
+    {
+      "id": "task-2026-05-16-325",
+      "title": "Support a future Spectoda preferred-parts layer outside this public repo",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Support a future Spectoda preferred-parts layer outside this public repo. ## MVP: Manufacturing Preparation",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Support a future Spectoda preferred-parts layer outside this public repo.\n\n## MVP: Manufacturing Preparation"
+    },
+    {
+      "id": "task-2026-05-16-326",
+      "title": "Export Gerber, BOM, CPL, and PDF files through EasyEDA APIs.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Export Gerber, BOM, CPL, and PDF files through EasyEDA APIs.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Export Gerber, BOM, CPL, and PDF files through EasyEDA APIs."
+    },
+    {
+      "id": "task-2026-05-16-327",
+      "title": "Validate that BOM and CPL reference expected designators and footprints.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Validate that BOM and CPL reference expected designators and footprints.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Validate that BOM and CPL reference expected designators and footprints."
+    },
+    {
+      "id": "task-2026-05-16-328",
+      "title": "Document panel validation requirements.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Document panel validation requirements.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Document panel validation requirements."
+    },
+    {
+      "id": "task-2026-05-16-329",
+      "title": "Prepare a JLCPCB browser handoff without final order submission",
+      "status": "open",
+      "priority": "low",
+      "priority_rank": 90,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Prepare a JLCPCB browser handoff without final order submission. ## Future Spectoda Internal Workflow",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Prepare a JLCPCB browser handoff without final order submission.\n\n## Future Spectoda Internal Workflow"
+    },
+    {
+      "id": "task-2026-05-16-330",
+      "title": "Mirror Spectoda EasyEDA account project metadata into the internal datasheets module.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Mirror Spectoda EasyEDA account project metadata into the internal `datasheets` module.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Mirror Spectoda EasyEDA account project metadata into the internal\n      `datasheets` module."
+    },
+    {
+      "id": "task-2026-05-16-331",
+      "title": "Catalog controller schematics, PCB revisions, exported PDFs/renders, and manufacturing packages as internal reference...",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Catalog controller schematics, PCB revisions, exported PDFs/renders, and manufacturing packages as internal reference data.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Catalog controller schematics, PCB revisions, exported PDFs/renders, and\n      manufacturing packages as internal reference data."
+    },
+    {
+      "id": "task-2026-05-16-332",
+      "title": "Use the catalog as design reference for future Spectoda controllers.",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Use the catalog as design reference for future Spectoda controllers.",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Use the catalog as design reference for future Spectoda controllers."
+    },
+    {
+      "id": "task-2026-05-16-333",
+      "title": "Keep proprietary controller designs and account data out of this public repository",
+      "status": "open",
+      "priority": "medium",
+      "priority_rank": 50,
+      "assignee": "agent",
+      "priority_decider": "matejsuchanek",
+      "priority_reason": "Migrated from the legacy module TODO.md so the module can use the Git-native task system.",
+      "created_at": "2026-05-16",
+      "updated_at": "2026-05-16",
+      "tags": [
+        "todo-migration",
+        "easyeda-mcp"
+      ],
+      "summary": "Keep proprietary controller designs and account data out of this public repository. ## Done",
+      "risk_notes": [
+        "This item was migrated mechanically from TODO.md; verify owner, priority and acceptance criteria before executing broad changes."
+      ],
+      "acceptance_criteria": [
+        "The migrated item is either completed, split into more specific tasks, or closed with a clear outcome.",
+        "Relevant module documentation and validation are updated if the work changes module reality."
+      ],
+      "links": [],
+      "legacy_markdown": "Keep proprietary controller designs and account data out of this public\n      repository.\n\n## Done"
+    }
+  ]
+}

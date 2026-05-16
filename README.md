@@ -130,7 +130,7 @@ tool registry.
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) - system model and boundaries.
 - [AGENTS.md](AGENTS.md) - operating rules for AI agents working here.
-- [TODO.md](TODO.md) - active work and next steps.
+- [TODO.tasks.json](TODO.tasks.json) - active work and next steps.
 - [CHANGELOG.md](CHANGELOG.md) - notable project changes.
 - [CONTRIBUTING.md](CONTRIBUTING.md) - contribution rules.
 - [SECURITY.md](SECURITY.md) - vulnerability and secret-handling policy.

@@ -23,7 +23,7 @@ Good pull requests include:
 - a clear summary of the behavior change;
 - tests or a documented reason tests are not yet possible;
 - a smoke-test note for bridge/browser changes;
-- updates to `README.md`, `ARCHITECTURE.md`, or `TODO.md` when scope changes;
+- updates to `README.md`, `ARCHITECTURE.md`, or `TODO.tasks.json` when scope changes;
 - no generated output unless it is a deliberate fixture.
 
 ## Commit Style
