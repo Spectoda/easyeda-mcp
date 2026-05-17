@@ -8,7 +8,7 @@
   },
   "tasks": [
     {
-      "id": "task-2026-05-16-312",
+      "id": "task-2026-05-17-705",
       "title": "Define the EasyEDA bridge message protocol.",
       "status": "open",
       "priority": "medium",
@@ -34,7 +34,7 @@
       "legacy_markdown": "Define the EasyEDA bridge message protocol."
     },
     {
-      "id": "task-2026-05-16-315",
+      "id": "task-2026-05-17-708",
       "title": "Connect to an EasyEDA Pro editor session through a bridge extension.",
       "status": "open",
       "priority": "medium",
@@ -60,7 +60,7 @@
       "legacy_markdown": "Connect to an EasyEDA Pro editor session through a bridge extension."
     },
     {
-      "id": "task-2026-05-16-316",
+      "id": "task-2026-05-17-709",
       "title": "List connected editor windows and select an active window.",
       "status": "open",
       "priority": "medium",
@@ -87,7 +87,7 @@
       "legacy_markdown": "List connected editor windows and select an active window."
     },
     {
-      "id": "task-2026-05-16-317",
+      "id": "task-2026-05-17-710",
       "title": "Read current project metadata and document tree.",
       "status": "open",
       "priority": "medium",
@@ -113,7 +113,7 @@
       "legacy_markdown": "Read current project metadata and document tree."
     },
     {
-      "id": "task-2026-05-16-318",
+      "id": "task-2026-05-17-711",
       "title": "Extract schematic components, pins, nets, and wires.",
       "status": "open",
       "priority": "medium",
@@ -139,7 +139,7 @@
       "legacy_markdown": "Extract schematic components, pins, nets, and wires."
     },
     {
-      "id": "task-2026-05-16-319",
+      "id": "task-2026-05-17-712",
       "title": "Extract PCB components, pads, nets, board outline, and DRC status.",
       "status": "open",
       "priority": "medium",
@@ -165,7 +165,7 @@
       "legacy_markdown": "Extract PCB components, pads, nets, board outline, and DRC status."
     },
     {
-      "id": "task-2026-05-16-320",
+      "id": "task-2026-05-17-713",
       "title": "Produce a structured schematic/PCB review report.",
       "status": "open",
       "priority": "medium",

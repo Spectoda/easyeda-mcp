@@ -8,7 +8,7 @@
   },
   "tasks": [
     {
-      "id": "task-2026-05-16-308",
+      "id": "task-2026-05-17-701",
       "title": "Create the public repository and add it to the Spectoda GEN2 workspace.",
       "status": "done",
       "priority": "medium",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": "task-2026-05-16-309",
+      "id": "task-2026-05-17-702",
       "title": "Establish public documentation, safety boundaries, and contribution rules.",
       "status": "done",
       "priority": "medium",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": "task-2026-05-16-310",
+      "id": "task-2026-05-17-703",
       "title": "Define the first TypeScript package layout.",
       "status": "done",
       "priority": "medium",
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": "task-2026-05-16-311",
+      "id": "task-2026-05-17-704",
       "title": "Implement MCP server skeleton with mocked bridge transport.",
       "status": "done",
       "priority": "medium",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": "task-2026-05-16-313",
+      "id": "task-2026-05-17-706",
       "title": "Add smoke-test documentation for Codex Browser Use.",
       "status": "done",
       "priority": "medium",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "id": "task-2026-05-16-314",
+      "id": "task-2026-05-17-707",
       "title": "Add package scripts that map to the documented smoke levels",
       "status": "done",
       "priority": "medium",
